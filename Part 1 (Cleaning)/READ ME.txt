@@ -1,0 +1,3 @@
+If you want to re-run our cleaning codes, note that it'll take around 2 hours to finish.
+
+So we suggest you to use those finished excel files "Cleaned_Data_With_Duplicates_ID" and Cleaned_Data_Without_Duplicates_ID". 
